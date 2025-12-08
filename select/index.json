@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Plazma",
+  "base_artist": "米津玄師",
+  "createdAt": "2025-12-08T07:29:48.659556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Salaan (feat. Goriong Talas, Anygma, Sayadd, Dhictah, Plazma, Emar Industriya)",
+      "artist": "Batas",
+      "has_synced": false,
+      "path": "select/01_Salaan_(feat._Goriong_Talas,_Anygma,_Sayadd,_Dhictah,_Plazma,_Emar_Industriya)_Batas.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Plazma",
+      "artist": "Mamá Vudú",
+      "has_synced": true,
+      "path": "select/02_Plazma_Mamá_Vudú.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Plazma",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/03_Plazma_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Plazma",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_Plazma_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Plazma",
+      "artist": "Yonezu, Kenshi",
+      "has_synced": true,
+      "path": "select/05_Plazma_Yonezu,_Kenshi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Plazma",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_Plazma_米津玄師.txt"
+    }
+  ]
+}
