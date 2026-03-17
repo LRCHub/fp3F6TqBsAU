@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Plazma",
   "base_artist": "米津玄師",
-  "createdAt": "2025-12-08T07:29:48.659556Z",
+  "createdAt": "2026-03-17T20:58:01.026584Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -45,12 +45,69 @@
       "path": "select/05_Plazma_Yonezu,_Kenshi.lrc"
     },
     {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Plazma",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/06_Plazma_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Plazma",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/07_Plazma_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Plazma (Mama Vudu)",
+      "artist": "Drogatones",
+      "has_synced": false,
+      "path": "select/08_Plazma_(Mama_Vudu)_Drogatones.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Plazma",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/09_Plazma_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Plazma Rose",
+      "artist": "Sadie Sink",
+      "has_synced": true,
+      "path": "select/10_Plazma_Rose_Sadie_Sink.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "PLAZMA",
+      "artist": "美里",
+      "has_synced": true,
+      "path": "select/11_PLAZMA_美里.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "Plazma",
       "artist": "米津玄師",
       "has_synced": false,
       "path": "select/pl_01_Plazma_米津玄師.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Plazma",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/localdb_01_Plazma_米津玄師.lrc",
+      "repo_name": "fp3F6TqBsAU"
     }
   ]
 }
